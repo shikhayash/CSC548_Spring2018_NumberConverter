@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity
 {
+    //made a change
+    
     private TextView bitsTV;
     private EditText mbET;
 
